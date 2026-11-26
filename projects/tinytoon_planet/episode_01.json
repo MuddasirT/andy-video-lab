@@ -1,0 +1,38 @@
+{
+  "title": "Pipo and the Magic Balloon",
+  "series": "TinyToon Planet",
+  "duration_seconds": 30,
+  "format": "9:16",
+  "scenes": [
+    {
+      "duration_seconds": 5,
+      "description": "Pipo discovers a rainbow balloon",
+      "narration": "One sunny morning, Pipo found a magical balloon!"
+    },
+    {
+      "duration_seconds": 5,
+      "description": "Balloon lifts Pipo",
+      "narration": "Whoosh! Up, up and away!"
+    },
+    {
+      "duration_seconds": 5,
+      "description": "Bunny watches from below",
+      "narration": "But Bunny wanted to fly too."
+    },
+    {
+      "duration_seconds": 5,
+      "description": "Pipo returns for Bunny",
+      "narration": "Come on, Bunny! Let's fly together!"
+    },
+    {
+      "duration_seconds": 5,
+      "description": "Friends fly past a rainbow",
+      "narration": "Together, they discovered a wonderful rainbow!"
+    },
+    {
+      "duration_seconds": 5,
+      "description": "Friends laugh and hug",
+      "narration": "Adventures are better with friends!"
+    }
+  ]
+}
